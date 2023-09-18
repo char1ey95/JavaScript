@@ -44,7 +44,7 @@
 
 단위로는 bps(bits per second)를 사용했으나, 현재는 기술의 발전으로 KBps, MBps, GBps 등의 단위로 처리량을 측정한다.
 
-![Alt text](image.png)
+![처리량](https://velog.velcdn.com/images/char1ey95/post/52ec2e4a-400a-4fd3-886c-666117969a85/image.png)
 
 `파일의 크기(bit) / 전송시간(s)`
 
@@ -63,7 +63,7 @@
 -   네트워크 토폴로지
     -   네트워크 디바이스의 수, 네트워크 링크의 대역폭, 네트워크 경로의 디바이스 간 거리를 나타내며, 잘 설계된 네트워크 토폴로지는 트래픽 병목을 줄여 처리량을 증가시킨다.
 
-![네트워크 토폴로지](image-2.png)
+![네트워크 토폴로지](https://t1.daumcdn.net/cfile/tistory/9917A4375ACD5BCC07)
 
 <br>
 
@@ -79,7 +79,7 @@
 
 대부분의 OS에서는 ping 명령을 지원한다.
 
-![지연시간](image-1.png)
+![](https://velog.velcdn.com/images/char1ey95/post/f6bac3e0-c657-4d49-b418-d8e5b26ead6b/image.png)
 
 #### **단위**
 
